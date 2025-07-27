@@ -1,6 +1,6 @@
 
 
-crisis_data = [
+crisis_data = 
 {
 "headline": "6.8 magnitude earthquake strikes northern Chile",
 "location": "Chile",
