@@ -1,6 +1,6 @@
 
 
-crisis_data = 
+crisis_data = [
 {
 "headline": "6.8 magnitude earthquake strikes northern Chile",
 "location": "Chile",
@@ -71,3 +71,4 @@ crisis_data =
 "timestamp": "2025-07-27T09:10:00Z",
 "source": "https://www.japantimes.co.jp/news/tsunami-fake-news"
 }
+]
